@@ -9,6 +9,8 @@
 
 # Schedule
 
-* BiWeek One (11.27-12.10) - get started - setup the server, build the Github project, get familiar with what's going on here
+* BiWeek One (11.27-12.10) - get started
+setup the server, build the Github project, get familiar with what's going on here
 
-* BiWeek Two (12.11-12.24) - connection test & proto design - 
+* BiWeek Two (12.11-12.24) - connection test & proto design
+test connection with server, proto design proposal
