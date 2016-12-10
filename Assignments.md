@@ -19,3 +19,4 @@
 
   - test connection with server
   - proto design proposal: UI design, function and workflow design, API design
+  - diploma paper draft
