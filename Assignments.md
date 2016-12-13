@@ -17,6 +17,6 @@
 
 2. BiWeek Two (12.11-12.24) - connection test & proto design
 
-  - test connection with server
+  - test connection with server (separate data and web server)
   - proto design proposal: UI design, function and workflow design, API design
   - diploma paper draft
