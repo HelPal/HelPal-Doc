@@ -20,3 +20,5 @@
   - test connection with server (separate data and web server)
   - proto design proposal: UI design, function and workflow design, API design
   - diploma paper draft
+
+3. GapWeek (12.25-12.31) - NULL for Xmas and Finals
