@@ -22,3 +22,8 @@
   - diploma paper draft
 
 3. GapWeek (12.25-12.31) - NULL for Xmas and Finals
+
+4. UniWeek Three (01.01-01.07)
+
+  - finish the work that should be done last week
+  - push source code to github (especially API design), set up the server ans test 
