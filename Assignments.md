@@ -26,4 +26,8 @@
 4. UniWeek Three (01.01-01.07)
 
   - finish the work that should be done last week
-  - push source code to github (especially API design), set up the server ans test 
+  - push source code to github (especially API design), set up the server and test
+  
+5. BiWeek Four (01.08-01.21)
+  
+  - server, github and reports
