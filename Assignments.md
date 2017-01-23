@@ -31,3 +31,7 @@
 5. BiWeek Four (01.08-01.21)
   
   - server, github and reports
+
+6. TriWeek Five (01.22-02.11)
+
+  - work summary and push github before Chinese New Year
