@@ -35,3 +35,9 @@
 6. TriWeek Five (01.22-02.11)
 
   - work summary and push github before Chinese New Year
+ 
+7. BiWeek Six (03.05-03.18)
+
+  - back on track
+  - development solution discussion
+  - prototype development
