@@ -41,3 +41,4 @@
   - back on track
   - development solution discussion
   - prototype development
+  - basic and classic algorithms
