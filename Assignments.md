@@ -42,3 +42,20 @@
   - development solution discussion
   - prototype development
   - basic and classic algorithms
+  
+8. BiWeek Seven (03.19-04.01)
+
+  - key techs (IM, search, recommendation) API design and simple impletation
+  
+9. BiWeek Eight (04.02-04.15)
+
+  - key techs (IM, search, recommendation) fully impletation
+  - prototype done
+
+10. BiWeek Nine (04.06-04.30)
+
+  - improve system stability, algorithm efficiency, UI experience
+  
+11. More (05.01-?)
+
+  - put system into practice to test
