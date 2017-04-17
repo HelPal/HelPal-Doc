@@ -52,7 +52,7 @@
   - key techs (IM, search, recommendation) fully impletation
   - prototype done
 
-10. BiWeek Nine (04.06-04.30)
+10. BiWeek Nine (04.16-04.30)
 
   - improve system stability, algorithm efficiency, UI experience
   
