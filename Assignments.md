@@ -56,6 +56,11 @@
 
   - improve system stability, algorithm efficiency, UI experience
   
-11. More (05.01-?)
+11. More (05.01-05.14)
 
   - put system into practice to test
+
+12. Conclusion (05.15-05.31)
+
+  - internal online test
+  - future plan
