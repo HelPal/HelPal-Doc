@@ -16,4 +16,4 @@ HelPalNext New Assignments
 
   - Make sure to finnish all the uncompleted work
   - New plan of work assignment
-  - Old and New members
+  - Old and New members
