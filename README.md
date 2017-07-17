@@ -12,3 +12,12 @@ HelPal is a project of system that leverages the location based services and mob
 * A [short](https://drive.google.com/file/d/0Byqm7nQQWnXwaURIWGN0aEpFN00/view?usp=sharing) and [long](https://drive.google.com/file/d/0Byqm7nQQWnXwcm0tRmNsZy1jcHM/view?usp=sharing) slides.
 
 The project ahead is under CoNSTRuCTiON!
+
+
+## HelPalNext
+
+* Mobile Serach Platform (HelPal) - Web&Android&iOS + Tomcat/Ngnix + MySQL&HDFS
+
+* Big Data Platform (biggy) - Flume + Kafka + Spark (Storm/Flink) + Hbase + D3
+
+* IoTs Privacy Testbed (BIT) - Sensing Devices -> Streaming Data Input -> Persist Data Storage -> Heterologous Data Analysis -> Interactive Data Visualization
